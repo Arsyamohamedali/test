@@ -3,4 +3,4 @@ numpy
 pandas
 opencv-python-headless
 keras
-tensorflow
+tensorflow==2.4.1
